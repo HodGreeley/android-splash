@@ -1,2 +1,3 @@
-# android-splash
-A starter app with a splash screen added.
+# Android Splash
+
+A bare-bones base with a splash screen added.
